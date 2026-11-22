@@ -12,6 +12,7 @@ TEXT = (
     # 276 chars: dense, no filler. Every sentence earns its place:
     # day-one action, buyer, price, venue, $0 delivery, the edge
     # (free before/after), and the day-30 expected holding.
+    # Rebuilt in a fresh sealed recording with .makefun/owner.json.
     "Day 1: list a $39 AI photo refresh for Etsy sellers on Fiverr. "
     "Daily, find 50 listings with dull photos and send each seller a "
     "free before/after of one. Deliver in Photopea, $0 cost. Sellers "
